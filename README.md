@@ -32,5 +32,6 @@
 4. Respond to the application popup by clicking "Make public."
    > Make sure you actually click the "Make public." button, or the proxy won't function properly.
 5. Access the deployed website from the ports tab.
+### IF YOU DO NOT UNDERSTAND THE INSTRUCIONS, WATCH THE VIDEO BELOW
 
-
+[Screen recording 2024-02-06 7.45.18 AM.webm](https://github.com/480132/Coding/assets/83782172/45bc2974-5441-4878-b01c-ac35c93789e5)
